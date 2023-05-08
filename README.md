@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AreebAhsan
 - 👀 I’m interested in programming languages like Python , C# , JAVA , C++ , C
-- 🌱 I’m currently Studying Mechanical Engineering
+- 🌱 I’m a Mechanical Engineer
 
 <!---
 AreebAhsan/AreebAhsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
